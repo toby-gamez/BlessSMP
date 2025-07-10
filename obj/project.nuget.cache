@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/OlwXv4yrTM=",
+  "success": true,
+  "projectFilePath": "/home/tobias/RiderProjects/BlessSMP/BlessSMP/BlessSMP.csproj",
+  "expectedPackageFiles": [
+    "/home/tobias/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.5/microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

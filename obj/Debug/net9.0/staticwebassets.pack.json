@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/home/tobias/RiderProjects/BlessSMP/BlessSMP/obj/Debug/net9.0/scopedcss/projectbundle/BlessSMP.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlessSMP.uhdzuv1p80.bundle.scp.css"
+    },
+    {
+      "Id": "/home/tobias/RiderProjects/BlessSMP/BlessSMP/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/tobias/RiderProjects/BlessSMP/BlessSMP/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.BlessSMP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.BlessSMP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.BlessSMP.props",
+      "PackagePath": "build\\BlessSMP.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.BlessSMP.props",
+      "PackagePath": "buildMultiTargeting\\BlessSMP.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.BlessSMP.props",
+      "PackagePath": "buildTransitive\\BlessSMP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
