@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlessSMP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27eec30e3b4f1018dd76e056c2210af8a5a0fb3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlessSMP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlessSMP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

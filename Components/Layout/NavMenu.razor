@@ -1,31 +1,20 @@
-﻿@*
-<div class="top-row ps-3 navbar navbar-dark">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="">BlessSMP</a>
+﻿<nav class="navbar-content">
+    <a class="logo" href="/"><img src="images/bless.png" width="60px" alt="Logo"></a>
+    <div class="nav-links">
+        <NavLink class="nav-link" href="/" Match="NavLinkMatch.All">
+            Domů
+        </NavLink>
+        <NavLink class="nav-link" href="clenove">
+            Členové
+        </NavLink>
+        <NavLink class="nav-link" href="dynmapa">
+            Dynmapa
+        </NavLink>
+        <NavLink class="nav-link" href="about">
+            O nás
+        </NavLink>
+        <NavLink class="nav-link" href="pravidla">
+            Pravidla serveru
+        </NavLink>
     </div>
-</div>
-
-<input type="checkbox" title="Navigation menu" class="navbar-toggler"/>
-
-<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
-    <nav class="nav flex-column">
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
-            </NavLink>
-        </div>
-
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Counter
-            </NavLink>
-        </div>
-
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="weather">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
-            </NavLink>
-        </div>
-    </nav>
-</div>
-*@
+</nav>

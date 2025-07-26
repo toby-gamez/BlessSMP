@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
+      "Id": "/home/tobias/RiderProjects/BlessSMP/BlessSMP/wwwroot/images/bless.png",
+      "PackagePath": "staticwebassets/images/bless.png"
+    },
+    {
+      "Id": "/home/tobias/RiderProjects/BlessSMP/BlessSMP/wwwroot/styles/style.css",
+      "PackagePath": "staticwebassets/styles/style.css"
+    },
+    {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.BlessSMP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

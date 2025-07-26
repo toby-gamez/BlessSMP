@@ -24,8 +24,24 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/tobias/RiderProjects/BlessSMP/BlessSMP/Components/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BYm91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/tobias/RiderProjects/BlessSMP/BlessSMP/Components/Pages/Clenove.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DbGVub3ZlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/tobias/RiderProjects/BlessSMP/BlessSMP/Components/Pages/Dynmapa.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9EeW5tYXBhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/tobias/RiderProjects/BlessSMP/BlessSMP/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/tobias/RiderProjects/BlessSMP/BlessSMP/Components/Pages/Pravidla.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9QcmF2aWRsYS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/tobias/RiderProjects/BlessSMP/BlessSMP/Components/Routes.razor]

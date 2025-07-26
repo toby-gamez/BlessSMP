@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    color: #3B2B36;
+    background: linear-gradient(to bottom, #cfb8c2, #a77b9f);
+    height: 100vh;
+    overflow: hidden; /* Zabrání scrollování */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.navbar-content {
+    margin: 20px auto auto;
+    border-radius: 10px;
+    max-width: 1200px;
+    top: 0;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background: rgba(0, 0, 0, 0.1); /* Transparentní černá */
+    backdrop-filter: blur(10px); /* Blur efekt */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Jemný stín */
+    z-index: 1000;
+}
+
+.navbar-content .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #3B2B36;
+    text-decoration: none;
+}
+
+.navbar-content .nav-link {
+    font-size: 1rem;
+    color: #3B2B36;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    padding-left: 20px;
+}
+
+.navbar-content .nav-link:hover {
+    color: #694A57;
+}
+.logo {
+    margin-right: auto;
+}
+.center-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.main-title {
+    font-size: 7rem;
+    font-weight: bold;
+    margin: 0; /* Odstranění výchozího marginu */
+}
+.sub-title {
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin: 10px 0 0; /* Odstup od hlavního nadpisu */
+}
+
+@media (max-width: 768px) {
+    .main-title {
+        font-size: 4rem; /* Zmenšení hlavního nadpisu */
+    }
+    .sub-title {
+        font-size: 1rem; /* Zmenšení podnadpisu */
+    }
+    .navbar-content {
+        flex-direction: column; /* Navigace na více řádků */
+        padding: 10px;
+    }
+    .navbar-content .nav-link {
+        padding-left: 0; /* Odstranění odsazení mezi odkazy */
+        margin: 5px 0; /* Mezera mezi odkazy */
+    }
+}

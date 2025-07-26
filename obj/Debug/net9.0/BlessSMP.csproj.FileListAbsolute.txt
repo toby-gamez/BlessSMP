@@ -31,6 +31,7 @@
 /home/tobias/RiderProjects/BlessSMP/BlessSMP/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.BlessSMP.props
 /home/tobias/RiderProjects/BlessSMP/BlessSMP/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.BlessSMP.props
 /home/tobias/RiderProjects/BlessSMP/BlessSMP/obj/Debug/net9.0/staticwebassets.pack.json
-/home/tobias/RiderProjects/BlessSMP/BlessSMP/obj/Debug/net9.0/compressed/oe61pkka2x-xe5yuphuka.gz
 /home/tobias/RiderProjects/BlessSMP/BlessSMP/obj/Debug/net9.0/compressed/2s4qosghc9-uhdzuv1p80.gz
 /home/tobias/RiderProjects/BlessSMP/BlessSMP/obj/Debug/net9.0/compressed/vq75681kuj-uhdzuv1p80.gz
+/home/tobias/RiderProjects/BlessSMP/BlessSMP/obj/Debug/net9.0/compressed/oe61pkka2x-1arctnp8ys.gz
+/home/tobias/RiderProjects/BlessSMP/BlessSMP/obj/Debug/net9.0/compressed/q8rmivkkpf-otjiyg1i63.gz
